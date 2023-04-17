@@ -1,1 +1,1 @@
-# kiosk_infrastructure
+# kiosk_infrastructure for test
